@@ -1,2 +1,2 @@
 # BankDataset-Machine-Learning-Project
-A project for Purwadhika JCDS 10 Modul 3 exam.
+Analyzing features that influence customer behavior to churn. Also build a ML model to predict it.
